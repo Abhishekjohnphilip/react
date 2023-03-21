@@ -1,0 +1,77 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+
+.left{
+    width: 40%;
+    margin-left: 12%;
+}
+html,
+body,
+#root {
+  width: 100%;
+  height: 50%;
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.right-side{margin-top: -60%;
+    width: 400px;
+    height: 400px;
+}
+.first {
+  margin-top: 10%;
+  margin-left: 10%;
+}
+.last {
+  margin-top: 12%;
+  padding-left: 6%;
+}
+
+.next {
+  width: 100%;
+}
+
+.length {margin-top: 10%;
+  
+}
+
+.frgtpwd {
+  padding-left: 45%;text-decoration: none;
+}
+.sucess{
+   padding: 25%;
+   margin-left: 20%;
+
+}
+
+.btn-1 {
+  width: 100%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.btn-back {margin-left: 8%;text-decoration: none;
+}
+
+.btn-back:hover{
+    background-color: #ffff;
+    text-decoration: none;
+}
+
+.btn-resend {
+  padding-left: 20%;text-decoration: none;
+}
+.CrtAcc{text-decoration: none;}
+/* @media (min-width: 768px) { 
+    .next{
+        width: 50%;
+    }
+ }     */
+
+
+ .right{
+    margin-left: 60%;
+ }
+ .Otp-img{padding-left: 10%;}
